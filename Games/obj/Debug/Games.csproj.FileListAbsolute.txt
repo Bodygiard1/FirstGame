@@ -1,0 +1,10 @@
+D:\learning\Games\Games\bin\Debug\Games.exe.config
+D:\learning\Games\Games\bin\Debug\Games.exe
+D:\learning\Games\Games\bin\Debug\Games.pdb
+D:\learning\Games\Games\obj\Debug\Games.csprojAssemblyReference.cache
+D:\learning\Games\Games\obj\Debug\Games.Form1.resources
+D:\learning\Games\Games\obj\Debug\Games.Properties.Resources.resources
+D:\learning\Games\Games\obj\Debug\Games.csproj.GenerateResource.cache
+D:\learning\Games\Games\obj\Debug\Games.csproj.CoreCompileInputs.cache
+D:\learning\Games\Games\obj\Debug\Games.exe
+D:\learning\Games\Games\obj\Debug\Games.pdb
